@@ -1,7 +1,4 @@
 # Hi Everyone! 👋 Welcome to Daniel Torres's Github Profile
-
-## On this page is where I keep my projects I want to show the world! 
-
 ### Right now I'm currently working on creating projects to showcase and grow my data science skills
 
 # [My Portfolio](https://danieltorres.tech)
