@@ -1,5 +1,13 @@
-### Hi there 👋
+# Hi Everyone! 👋 Welcome to Daniel Torres's Github Profile
 
+## On this page is where I keep my projects I want to show the world! 
+
+### Right now I'm currently working on creating projects to showcase and grow my data science skills
+
+<a href="https://medium.com/@importdata"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;  
+  <a href="https://www.linkedin.com/in/jaemin-lee-771705151/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/importdata"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 <!--
 **danielrichardtorres/danielrichardtorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
