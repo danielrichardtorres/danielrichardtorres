@@ -1,6 +1,6 @@
 # Hi Everyone! 👋
 
-Lately I've been working on my classes Machine Learning for Trading
+Lately I've been working on my class Machine Learning for Trading
 
 
 <!-- # [My Portfolio](https://danieltorres.tech) -->
