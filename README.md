@@ -1,8 +1,11 @@
-# Hi Everyone! 👋 Welcome to Daniel Torres's Github Profile
-### Right now I'm currently working on creating projects to showcase and grow my data science skills
+# Hi Everyone! 👋
 
-# [My Portfolio](https://danieltorres.tech)
+Lately I've been working on my classes Machine Learning for Trading
 
+
+<!-- # [My Portfolio](https://danieltorres.tech) -->
+I'm currently looking for work related to machine learning, if you're hiring please check out my linked in to reach me
 <a href="https://www.linkedin.com/in/danielrichardtorres/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.kaggle.com/danielrtorres"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
+<!-- <a href="https://www.kaggle.com/danielrtorres"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
+ -->
