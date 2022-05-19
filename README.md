@@ -2,6 +2,9 @@
 
 Lately I've been working on my class Machine Learning for Trading
 
+Check out some of my past python projects pinned below! 
+(I've done stuff more recently but I can't share it publicly since it's school projects.)
+
 
 <!-- # [My Portfolio](https://danieltorres.tech) -->
 I'm currently looking for work related to machine learning, if you're hiring please check out my linked in to reach me
