@@ -1,4 +1,8 @@
-# Hi Everyone! 👋
+# Hi There! 👋
+
+I'm Daniel, a CompSci Masters at Georgia Tech.
+
+## What's new
 
 Lately I've been working on my class Machine Learning for Trading
 
