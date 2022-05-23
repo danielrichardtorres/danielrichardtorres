@@ -2,6 +2,9 @@
 
 I'm Daniel, a CompSci Masters at Georgia Tech.
 
+# My portfolio
+https://danielrichardtorres.github.io/Portfolio/
+
 ## What's new
 
 Lately I've been working on my class Machine Learning for Trading
